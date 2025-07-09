@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Technology Skills](https://skillicons.dev/icons?i=github,html,css,js,java,cs,c,dotnet,figma,nodejs,react,tailwind,mysql)](https://skillicons.dev)
-![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
+
 **VinuraSandaruwan/VinuraSandaruwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
