@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+https://skillicons.dev/icons?i=github,html,css,js,java,cs,c,dotnet,figma,nodejs,react,tailwind,ts,mysql)](https://skillicons.dev
 <!--
 **VinuraSandaruwan/VinuraSandaruwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
